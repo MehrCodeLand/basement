@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Service.Leyer.Reepositories.Art;
+namespace Service.Leyer.Repositories.Art;
 
 public class ArtRepository
 {
