@@ -18,9 +18,6 @@ public class ArtistController : ControllerBase
         _artist = artist;
     }
 
-
-
-
     [HttpPost]
     public async Task<IActionResult> CreateArtist( CreateArtistVm artistVm)
     {
